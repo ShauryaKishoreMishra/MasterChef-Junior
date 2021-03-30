@@ -1,1 +1,1 @@
-# MasterChef-Junior
+This recipe is about making spicy  maggi. I made this as I was craving for some spicy maggi alone at home. Head to ingredients.md to know the ingredients.
